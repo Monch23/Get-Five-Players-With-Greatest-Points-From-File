@@ -62,4 +62,8 @@ int main() {
         }
     }
 
+    fclose(file);
+    fclose(file2);
+    return 0;
+
 }
